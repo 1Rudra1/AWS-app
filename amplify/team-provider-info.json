@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "awsapp25476a15": {}
+      },
+      "api": {
+        "awsapp": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
